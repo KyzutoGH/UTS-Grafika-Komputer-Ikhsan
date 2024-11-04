@@ -12,9 +12,9 @@
 |  |  |  |
 |--|--|--|
 |*No*| *Tugas* | *Detail* | *Lihat* |
-| 1 | [P5JS UTS ](https://kyzutogh.github.io/GrafikaKomputerTugas/Pesawat911/) | UTS Grafika Komputer membuat pemandangan |
+| 1 | [P5JS UTS ]([https://kyzutogh.github.io/UTS-Grafika-Komputer-Ikhsan/]) | UTS Grafika Komputer membuat pemandangan |
 # SCREENSHOT PROGRAM
-![P5JS Pesawat Menabrak Gedung](https://github.com/KyzutoGH/GrafikaKomputerTugas/blob/main/Pesawat911/Pesawat911.png)
+![P5JS Ada Gunung dan Burungs](https://github.com/KyzutoGH/UTS-Grafika-Komputer-Ikhsan/blob/main/Burung%20Puyuh.png)
 
 | KyzutoSKETCH - Tugas-Tugas - Mata Kuliah Grafika Komputer |
 
